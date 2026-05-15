@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Pooja 👋
 
-<!--
-**Pooja-47/Pooja-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Python
+- Data Structures & Algorithms
+- SQL & DBMS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Goals
+- Build strong programming fundamentals
+- Improve problem-solving skills
+- Create practical projects
+- Prepare for placements
+
+🛠 Tech Stack
+- Python
+- SQL
+- Git
+- VS Code
+
+📚 Current Focus
+- Python fundamentals
+- DSA using Python
+- Mini projects
+- Database concepts
+
+🌱 Learning Journey
+I’m currently rebuilding my coding journey with a focus on consistency, structured learning, and real understanding instead of rushing through technologies.
+
+⭐ Weekly Progress Updates
+I maintain my repositories with organized weekly updates and project improvements.
